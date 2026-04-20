@@ -3,7 +3,6 @@ https://roadmap.sh/projects/single-page-cv
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
 <hr></hr>
 </head>
 <body>
